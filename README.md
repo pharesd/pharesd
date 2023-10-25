@@ -5,20 +5,20 @@ I'm a highly skilled DevOps (Cloud) Engineer with a passion for automation, syst
 ## 🚀 Skills and Expertise
 
 - DevOps
-- Cloud Computing (AWS, Azure, GCP)
+- Cloud Computing (AWS, GCP)
 - Continuous Integration and Continuous Deployment (CI/CD)
-- Infrastructure as Code (IaC)
+- Infrastructure as Code (IaC) - Terraform, AWS CloudFormation
 - Docker, Kubernetes
-- Shell Scripting
+- Python and Shell Scripting
 - System Administration
 - Automation
-- Configuration Management (e.g., Ansible)
+- Configuration Management (Ansible, Chef, Puppet)
 - Monitoring and Logging
 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/pharesd)
+- LinkedIn: [Phares Doctor](https://www.linkedin.com/in/pharesd)
 
 
 Thanks for stopping by, and I look forward to connecting with you and exploring new opportunities in the world of DevOps and cloud engineering! 👨‍💻
