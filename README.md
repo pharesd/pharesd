@@ -24,6 +24,7 @@ I'm proud to be a *Top Rated Plus* freelancer on [Upwork](https://www.upwork.com
 
 - [LinkedIn](https://www.linkedin.com/in/pharesd)
 - [Upwork](https://www.upwork.com/fl/pharesd)
+- [Email](mailto:korisophares@gmail.com)
 
 
 Thanks for stopping by, and I look forward to connecting with you and exploring new opportunities in the world of DevOps and cloud engineering! 👨‍💻
