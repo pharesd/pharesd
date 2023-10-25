@@ -1,4 +1,4 @@
-# Hi there, I'm Phares Doctor 👋
+# Hello, I'm Phares
 
 I'm a highly skilled DevOps (Cloud) Engineer with a passion for automation, system administration, and utilizing cloud technologies to enhance business efficiency and flexibility. I specialize in creating, maintaining, and managing CI/CD pipelines, as well as automating infrastructure provisioning and application deployment using various DevOps tools.
 
