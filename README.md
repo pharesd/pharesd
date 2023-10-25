@@ -2,6 +2,10 @@
 
 I'm a highly skilled DevOps (Cloud) Engineer with a passion for automation, system administration, and utilizing cloud technologies to enhance business efficiency and flexibility. I specialize in creating, maintaining, and managing CI/CD pipelines, as well as automating infrastructure provisioning and application deployment using various DevOps tools.
 
+## 👤 Top Rated Plus Freelancer on Upwork
+
+I'm proud to be a *Top Rated Plus* freelancer on [Upwork](https://www.upwork.com/fl/pharesd), a recognition of my expertise and professionalism in the field of DevOps and cloud engineering.
+
 ## 🚀 Skills and Expertise
 
 - DevOps
