@@ -19,6 +19,7 @@ I'm a highly skilled DevOps (Cloud) Engineer with a passion for automation, syst
 ## 🌐 Connect with Me
 
 - LinkedIn: [Phares Doctor](https://www.linkedin.com/in/pharesd)
+- Upwork: [Phares Doctor](https://www.upwork.com/fl/pharesd)
 
 
 Thanks for stopping by, and I look forward to connecting with you and exploring new opportunities in the world of DevOps and cloud engineering! 👨‍💻
